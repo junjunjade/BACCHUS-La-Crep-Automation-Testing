@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CPTC05- Change PAX that has already Printed Bill</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>71ad242d-c0d4-4552-ba46-da4d377a4b75</testCaseGuid>
+</TestCaseEntity>

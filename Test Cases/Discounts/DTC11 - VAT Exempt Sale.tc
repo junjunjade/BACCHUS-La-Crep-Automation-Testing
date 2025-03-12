@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DTC11 - VAT Exempt Sale</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8e905a6b-e92c-4a60-a53a-a3a6c58062cb</testCaseGuid>
+</TestCaseEntity>

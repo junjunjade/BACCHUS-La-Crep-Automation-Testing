@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CPTC01 - Change PAX that is Not Occupied</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>134dc2b6-860c-4468-b6e8-c445ceae78a5</testCaseGuid>
+</TestCaseEntity>

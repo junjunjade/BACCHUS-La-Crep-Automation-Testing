@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TDC13 - Add Multiple Discounts</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>96b2d6fe-af4f-44f1-897a-10e702d81b89</testCaseGuid>
+</TestCaseEntity>

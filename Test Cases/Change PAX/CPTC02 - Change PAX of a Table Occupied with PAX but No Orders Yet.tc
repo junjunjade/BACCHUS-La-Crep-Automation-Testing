@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CPTC02 - Change PAX of a Table Occupied with PAX but No Orders Yet</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9d29bc4d-e52a-4919-a3b4-b722aa620a72</testCaseGuid>
+</TestCaseEntity>

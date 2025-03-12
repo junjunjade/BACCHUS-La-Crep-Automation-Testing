@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DTC06 - 30 PERCENT DISCOUNT</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>67cb1eca-ab83-4dbe-90cd-9c4282cbfd3a</testCaseGuid>
+</TestCaseEntity>

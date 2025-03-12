@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CPTC04 - Change PAX of a Reserved Table</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9bf7ec5a-e128-4bb4-9a9d-5c9446075f08</testCaseGuid>
+</TestCaseEntity>

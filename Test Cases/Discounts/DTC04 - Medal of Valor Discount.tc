@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DTC04 - Medal of Valor Discount</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>80792641-f5ef-4b94-b25e-089a39d1e61b</testCaseGuid>
+</TestCaseEntity>

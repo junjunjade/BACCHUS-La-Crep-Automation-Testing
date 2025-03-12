@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DTC01 - Senior Citizen Discount</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>06e4d7a9-82b0-40db-a5d4-2231f9c2df2f</testCaseGuid>
+</TestCaseEntity>
