@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CTTC1 - Combine 2 Reserved Tables</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8ede5db2-8de2-47de-920c-b983391858f9</testCaseGuid>
+</TestCaseEntity>

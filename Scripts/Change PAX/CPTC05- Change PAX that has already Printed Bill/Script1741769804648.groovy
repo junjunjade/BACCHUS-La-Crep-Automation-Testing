@@ -20,6 +20,15 @@ import org.openqa.selenium.Keys as Keys
 String apkPath = GlobalVariable.APK_PATH;
 Mobile.startApplication(apkPath, true);
 
+Mobile.delay(5)
+
+Mobile.setText(findTestObject('Object Repository/Change PAX/android.widget.EditText - Usercode'), '000000', 0)
+
+Mobile.setEncryptedText(findTestObject('Object Repository/Change PAX/android.widget.EditText - Password'), 'tzH6RvlfSTg=',
+	0)
+
+Mobile.tap(findTestObject('Object Repository/Change PAX/android.widget.Button - POS'), 0)
+
 Mobile.tap(findTestObject('Object Repository/Change PAX/android.widget.TextView - Table 1'), 0)
 
 Mobile.tap(findTestObject('Object Repository/Change PAX/android.widget.Button - ORDER'), 0)

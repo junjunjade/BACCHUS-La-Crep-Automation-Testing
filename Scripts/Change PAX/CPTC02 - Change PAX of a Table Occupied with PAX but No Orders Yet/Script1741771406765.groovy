@@ -29,6 +29,8 @@ Mobile.setEncryptedText(findTestObject('Object Repository/Change PAX/android.wid
 
 Mobile.tap(findTestObject('Object Repository/Change PAX/android.widget.Button - POS'), 0)
 
+Mobile.delay(3)
+
 Mobile.tap(findTestObject('Object Repository/Change PAX/android.widget.TextView - Table 1'), 0)
 
 Mobile.tap(findTestObject('Object Repository/Change PAX/android.widget.Button - ORDER'), 0)
