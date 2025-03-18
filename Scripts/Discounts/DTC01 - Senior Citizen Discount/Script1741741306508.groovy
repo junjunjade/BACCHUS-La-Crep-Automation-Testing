@@ -20,7 +20,7 @@ import org.openqa.selenium.Keys as Keys
 String apkPath = GlobalVariable.APK_PATH;
 Mobile.startApplication(apkPath, true);
 
-Mobile.delay(3)
+Mobile.delay(5)
 
 Mobile.setText(findTestObject('Object Repository/Discounts/android.widget.EditText - Usercode'), '000000', 0)
 
@@ -29,13 +29,19 @@ Mobile.setEncryptedText(findTestObject('Object Repository/Discounts/android.widg
 
 Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - POS'), 0)
 
+Mobile.delay(6)
+
 Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.TextView - Table 1'), 0)
 
 Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - ORDER'), 0)
 
+Mobile.delay(6)
+
 Mobile.setText(findTestObject('Object Repository/Discounts/android.widget.EditText - Number of Pax'), '4', 0)
 
 Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - UPDATE'), 0)
+
+Mobile.delay(6)
 
 Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - MENU ITEMS'), 0)
 
@@ -67,11 +73,15 @@ Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - O
 
 Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - HOLD ORDER'), 0)
 
+Mobile.delay(6)
+
 Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.TextView - Table 1'), 0)
 
 Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - PRINT BILL'), 0)
 
 Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - CONFIRM PRINT BILL'), 0)
+
+Mobile.delay(6)
 
 Mobile.closeApplication()
 

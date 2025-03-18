@@ -20,6 +20,8 @@ import org.openqa.selenium.Keys as Keys
 String apkPath = GlobalVariable.APK_PATH;
 Mobile.startApplication(apkPath, true);
 
+Mobile.delay(6)
+
 Mobile.setText(findTestObject('Object Repository/Discounts/android.widget.EditText - Usercode'), '000000', 0)
 
 Mobile.setEncryptedText(findTestObject('Object Repository/Discounts/android.widget.EditText - Password'), 'tzH6RvlfSTg=', 
@@ -27,9 +29,11 @@ Mobile.setEncryptedText(findTestObject('Object Repository/Discounts/android.widg
 
 Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - POS'), 0)
 
+Mobile.delay(6)
+
 Mobile.scrollToText('Table 13', FailureHandling.STOP_ON_FAILURE)
 
-Mobile.delay(3, FailureHandling.STOP_ON_FAILURE)
+Mobile.delay(6, FailureHandling.STOP_ON_FAILURE)
 
 Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.TextView - Table 13'), 0)
 
@@ -58,7 +62,7 @@ Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - 3
 
 Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - 40 OTHER DISCOUNT'), 0)
 
-Mobile.delay(2, FailureHandling.STOP_ON_FAILURE)
+Mobile.delay(3, FailureHandling.STOP_ON_FAILURE)
 
 Mobile.closeApplication()
 

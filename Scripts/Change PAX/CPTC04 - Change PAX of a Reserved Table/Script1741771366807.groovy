@@ -17,7 +17,8 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.startApplication('C:\\Users\\Ritch\\Desktop\\Echo Test\\APKs\\BACCHUS La Crepe\\ordering_staging_27.apk', true)
+String apkPath = GlobalVariable.APK_PATH;
+Mobile.startApplication(apkPath, true);
 
 Mobile.scrollToText('Table 20', FailureHandling.STOP_ON_FAILURE)
 

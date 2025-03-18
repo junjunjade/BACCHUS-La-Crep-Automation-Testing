@@ -20,6 +20,8 @@ import org.openqa.selenium.Keys as Keys
 String apkPath = GlobalVariable.APK_PATH;
 Mobile.startApplication(apkPath, true);
 
+Mobile.delay(5)
+
 Mobile.setText(findTestObject('Object Repository/Combine Tables/android.widget.EditText - Usercode'), '000000', 0)
 
 Mobile.setEncryptedText(findTestObject('Object Repository/Combine Tables/android.widget.EditText - Password'), 'tzH6RvlfSTg=',
@@ -35,6 +37,8 @@ Mobile.setText(findTestObject('Object Repository/Combine Tables/android.widget.E
 
 Mobile.tap(findTestObject('Object Repository/Combine Tables/android.widget.Button - UPDATE'), 0)
 
+Mobile.delay(3)
+
 Mobile.tap(findTestObject('Object Repository/Combine Tables/android.widget.TextView - Table 2'), 0)
 
 Mobile.tap(findTestObject('Object Repository/Combine Tables/android.widget.Button - RESERVED TABLE'), 0)
@@ -43,8 +47,12 @@ Mobile.setText(findTestObject('Object Repository/Combine Tables/android.widget.E
 
 Mobile.tap(findTestObject('Object Repository/Combine Tables/android.widget.Button - UPDATE'), 0)
 
-Mobile.delay(2)
+Mobile.delay(5)
 
 Mobile.tap(findTestObject('Object Repository/Combine Tables/android.widget.TextView - Table 1'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Combine Tables/android.widget.Button - COMBINE'), 0)
+Mobile.tap(findTestObject('Object Repository/Combine Tables/android.widget.Button - COMBINE TABLE'), 0)
+
+Mobile.tap(findTestObject('Object Repository/Combine Tables/android.widget.Button - COMBINE TABLE for Table 1 and 2'), 0)
+
+Mobile.delay(3)

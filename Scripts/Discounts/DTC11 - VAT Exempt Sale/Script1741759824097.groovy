@@ -29,7 +29,11 @@ Mobile.setEncryptedText(findTestObject('Object Repository/Discounts/android.widg
 
 Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - POS'), 0)
 
+Mobile.delay(6)
+
 Mobile.scrollToText('Table 11', FailureHandling.STOP_ON_FAILURE)
+
+Mobile.delay(6)
 
 Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.TextView - Table 11'), 0)
 
@@ -38,6 +42,8 @@ Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - O
 Mobile.setText(findTestObject('Object Repository/Discounts/android.widget.EditText - Number of Pax'), '2', 0)
 
 Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - UPDATE'), 0)
+
+Mobile.delay(6)
 
 Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - MENU ITEMS'), 0)
 
@@ -63,13 +69,19 @@ Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - O
 
 Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - HOLD ORDER'), 0)
 
+Mobile.delay(6)
+
 Mobile.scrollToText('Table 11', FailureHandling.STOP_ON_FAILURE)
+
+Mobile.delay(6)
 
 Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.TextView - Table 11'), 0)
 
 Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - PRINT BILL'), 0)
 
 Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - CONFIRM PRINT BILL'), 0)
+
+Mobile.delay(6)
 
 Mobile.closeApplication()
 
