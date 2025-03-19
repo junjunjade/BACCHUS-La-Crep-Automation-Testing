@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>OTC02 - Void Transaction</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>98ce7b95-9ff3-464c-a1fa-c9aed6d90a16</testCaseGuid>
+</TestCaseEntity>

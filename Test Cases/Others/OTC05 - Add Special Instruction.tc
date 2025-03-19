@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>OTC05 - Add Special Instruction</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8b574a5d-250e-4aca-8437-ebdd330b97c0</testCaseGuid>
+</TestCaseEntity>

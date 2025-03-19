@@ -84,7 +84,7 @@
    <testCaseLink>
       <guid>971061fa-1895-4214-9bd5-760f4e7f3d21</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Discounts/DTC11 - VAT Exempt Sale</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>

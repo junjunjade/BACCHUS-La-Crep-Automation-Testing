@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>OTC04 - Add Order Slip</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7134a198-465f-41c8-aaf8-9da2194f1015</testCaseGuid>
+</TestCaseEntity>

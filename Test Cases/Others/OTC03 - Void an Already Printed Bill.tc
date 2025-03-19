@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>OTC03 - Void an Already Printed Bill</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5a017254-e889-47ed-a225-b24ef8a94446</testCaseGuid>
+</TestCaseEntity>

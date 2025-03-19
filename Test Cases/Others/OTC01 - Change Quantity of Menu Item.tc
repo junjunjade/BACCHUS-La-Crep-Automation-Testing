@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>OTC01 - Change Quantity of Menu Item</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fcfc0e98-cb40-4c71-9c06-2fcbd5074a39</testCaseGuid>
+</TestCaseEntity>
