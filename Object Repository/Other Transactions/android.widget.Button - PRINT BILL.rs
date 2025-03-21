@@ -13,7 +13,7 @@
       <name>class</name>
       <type>Main</type>
       <value>android.widget.Button</value>
-      <webElementGuid>15b56a27-e498-4301-be7b-57e66c2c8412</webElementGuid>
+      <webElementGuid>9eafc171-306f-4b61-a8d9-680206a5998a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -21,7 +21,7 @@
       <name>index</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>9e2c2e87-1739-4642-b62c-d506f9e5dedc</webElementGuid>
+      <webElementGuid>b0f922a4-c5a2-4358-8582-d85dd9692676</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -29,7 +29,7 @@
       <name>text</name>
       <type>Main</type>
       <value>PRINT BILL</value>
-      <webElementGuid>c75c7b22-85ef-49fb-9fec-3bfac0331848</webElementGuid>
+      <webElementGuid>c7742a64-9867-45bc-a6fa-e974736b1a92</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>resource-id</name>
       <type>Main</type>
       <value>com.jimac.bacchus_android_ordering:id/btn_print_bill</value>
-      <webElementGuid>5b23b25a-c49d-4e42-bbfd-afd42dbcc402</webElementGuid>
+      <webElementGuid>1732975e-aa12-4c51-9f71-1d83a5259fdb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>package</name>
       <type>Main</type>
       <value>com.jimac.bacchus_android_ordering</value>
-      <webElementGuid>acc0d0ba-0a88-49e4-ac7f-be63ae8e2fb8</webElementGuid>
+      <webElementGuid>2befe981-57a9-43e7-b36b-d52088b815e3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>checkable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>e9db1cb4-c6e3-41fe-b917-d26a4542bfef</webElementGuid>
+      <webElementGuid>6faf94fc-41e3-48bc-ab58-f4cca739e3b8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>checked</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>4c4b4167-e6a5-4535-a358-a8c79427536c</webElementGuid>
+      <webElementGuid>6a6df3ea-6f7f-4855-be97-bad7f4c82215</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>clickable</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>5c6790f3-4ea1-4896-8579-5478f4473734</webElementGuid>
+      <webElementGuid>581385e5-9a90-4b15-8c59-145d5ffbbcfb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>enabled</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>bbe42ef9-28ff-47b4-a89e-76e19843fe1f</webElementGuid>
+      <webElementGuid>468491dc-f3d3-4577-bd54-eadcf728509b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>focusable</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>7f17a7f3-0464-403a-bd55-e0e970419cdb</webElementGuid>
+      <webElementGuid>8642998c-8108-4551-acd4-bddbdd0e7606</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>focused</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>16c03313-62ef-478c-8c73-8f264de45592</webElementGuid>
+      <webElementGuid>fdfa4e89-b043-437c-a6b6-bc1882d41eac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>scrollable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>b20f4686-fc8a-4a65-a05f-6afcf245d08d</webElementGuid>
+      <webElementGuid>197e9685-25a3-4f71-9ec4-7ad188958740</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>long-clickable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>c6d23ccf-7d40-4aba-a2f9-4eab8006da97</webElementGuid>
+      <webElementGuid>16b3c7dc-7b80-49ff-8b4f-18e7d0ee8644</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>password</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>cf4b5436-53ca-4e36-8160-405b04d5560b</webElementGuid>
+      <webElementGuid>304e8a52-6d53-4182-95bd-fdbac400f559</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>f941baad-e2fe-4d71-8949-4e266414625d</webElementGuid>
+      <webElementGuid>2268b493-447d-41b8-9077-58a60095921c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>x</name>
       <type>Main</type>
       <value>640</value>
-      <webElementGuid>aee0a327-fa9a-4fb0-a52f-d37ead5f36f5</webElementGuid>
+      <webElementGuid>d590afe8-b049-493f-b713-b77c12eca64f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>y</name>
       <type>Main</type>
       <value>704</value>
-      <webElementGuid>b2f2f718-d3e3-423f-aa2b-02f7189b64c6</webElementGuid>
+      <webElementGuid>9f61565b-56af-478a-94b6-96f30c8d9a58</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -149,7 +149,7 @@
       <name>width</name>
       <type>Main</type>
       <value>320</value>
-      <webElementGuid>5bbb4875-e6d1-4197-afdc-32493b159d47</webElementGuid>
+      <webElementGuid>6cd6e90b-4246-4c41-a621-3bf12d2f28de</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -157,7 +157,7 @@
       <name>height</name>
       <type>Main</type>
       <value>48</value>
-      <webElementGuid>297a911e-3b81-4846-845f-fa494e4f8119</webElementGuid>
+      <webElementGuid>0944dc84-c0c6-4677-a7f6-2cb596cebc8a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -165,7 +165,7 @@
       <name>bounds</name>
       <type>Main</type>
       <value>[640,704][960,752]</value>
-      <webElementGuid>171fe214-3aea-4758-b533-fcd78705ae4a</webElementGuid>
+      <webElementGuid>bfc8b135-eb37-4405-9f04-4c71e37783a9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -173,7 +173,7 @@
       <name>displayed</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>b13ea3e4-c8f4-46be-84d8-001e6b765408</webElementGuid>
+      <webElementGuid>38dc81cf-aa0f-4937-8c71-ffa1d305da38</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -181,57 +181,50 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.LinearLayout[1]/android.widget.Button[1]</value>
-      <webElementGuid>96d370d2-3bb2-42d8-9426-1827af6c6b1e</webElementGuid>
+      <webElementGuid>4b599bbb-9a18-4f47-a38d-2ca94130682b</webElementGuid>
    </webElementProperties>
    <locator>//*[@class = 'android.widget.Button' and (@text = 'PRINT BILL' or . = 'PRINT BILL') and @resource-id = 'com.jimac.bacchus_android_ordering:id/btn_print_bill']</locator>
    <locatorCollection>
       <entry>
+         <key>CLASS_NAME</key>
+         <value>android.widget.Button</value>
+      </entry>
+      <entry>
+         <key>NAME</key>
+      </entry>
+      <entry>
+         <key>IOS_CLASS_CHAIN</key>
+      </entry>
+      <entry>
          <key>ANDROID_VIEWTAG</key>
-         <value></value>
+      </entry>
+      <entry>
+         <key>IOS_PREDICATE_STRING</key>
       </entry>
       <entry>
          <key>XPATH</key>
          <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.LinearLayout[1]/android.widget.Button[3]</value>
       </entry>
       <entry>
-         <key>ATTRIBUTES</key>
-         <value>//*[@class = 'android.widget.Button' and (@text = 'PRINT BILL' or . = 'PRINT BILL') and @resource-id = 'com.jimac.bacchus_android_ordering:id/btn_print_bill']</value>
-      </entry>
-      <entry>
          <key>ACCESSIBILITY</key>
-         <value></value>
-      </entry>
-      <entry>
-         <key>NAME</key>
-         <value></value>
-      </entry>
-      <entry>
-         <key>CUSTOM</key>
-         <value></value>
-      </entry>
-      <entry>
-         <key>ANDROID_UI_AUTOMATOR</key>
-         <value>new UiSelector().className(&quot;android.widget.Button&quot;).text(&quot;PRINT BILL&quot;).resourceId(&quot;com.jimac.bacchus_android_ordering:id/btn_print_bill&quot;).packageName(&quot;com.jimac.bacchus_android_ordering&quot;).enabled(true).clickable(true).longClickable(false).checkable(false).checked(false).focusable(true).focused(false).scrollable(false).selected(false).index(2)</value>
-      </entry>
-      <entry>
-         <key>CLASS_NAME</key>
-         <value>android.widget.Button</value>
-      </entry>
-      <entry>
-         <key>IMAGE</key>
-         <value></value>
       </entry>
       <entry>
          <key>ID</key>
          <value>com.jimac.bacchus_android_ordering:id/btn_print_bill</value>
       </entry>
       <entry>
-         <key>IOS_PREDICATE_STRING</key>
-         <value></value>
+         <key>ATTRIBUTES</key>
+         <value>//*[@class = 'android.widget.Button' and (@text = 'PRINT BILL' or . = 'PRINT BILL') and @resource-id = 'com.jimac.bacchus_android_ordering:id/btn_print_bill']</value>
       </entry>
       <entry>
-         <key>IOS_CLASS_CHAIN</key>
-         <value></value>
+         <key>CUSTOM</key>
+      </entry>
+      <entry>
+         <key>ANDROID_UI_AUTOMATOR</key>
+         <value>new UiSelector().className(&quot;android.widget.Button&quot;).text(&quot;PRINT BILL&quot;).resourceId(&quot;com.jimac.bacchus_android_ordering:id/btn_print_bill&quot;).packageName(&quot;com.jimac.bacchus_android_ordering&quot;).enabled(true).clickable(true).longClickable(false).checkable(false).checked(false).focusable(true).focused(false).scrollable(false).selected(false).index(2)</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
       </entry>
    </locatorCollection>
    <locatorStrategy>ATTRIBUTES</locatorStrategy>

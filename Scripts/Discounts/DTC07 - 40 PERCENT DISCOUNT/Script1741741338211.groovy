@@ -17,8 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-String apkPath = GlobalVariable.APK_PATH;
-Mobile.startApplication(apkPath, true);
+String apkPath = GlobalVariable.APK_PATH
+
+Mobile.startApplication(apkPath, true)
 
 Mobile.delay(6)
 
@@ -31,7 +32,7 @@ Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - P
 
 Mobile.delay(6)
 
-Mobile.scrollToText("Table 7")
+Mobile.scrollToText('Table 7')
 
 Mobile.delay(6)
 
@@ -63,9 +64,9 @@ Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - H
 
 Mobile.delay(6)
 
-Mobile.scrollToText("Table 7")
+Mobile.scrollToText('Table 7')
 
-Mobile.delay(6)
+Mobile.delay(4)
 
 Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.TextView - Table 7'), 0)
 

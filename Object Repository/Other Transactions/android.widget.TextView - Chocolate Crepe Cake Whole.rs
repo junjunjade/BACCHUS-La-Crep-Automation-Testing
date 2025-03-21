@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <MobileElementEntity>
    <description></description>
-   <name>android.widget.Button - HOLD ORDER</name>
+   <name>android.widget.TextView - Chocolate Crepe Cake Whole</name>
    <tag></tag>
    <elementGuidId>00000000-0000-0000-0000-000000000000</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
@@ -12,8 +12,8 @@
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>android.widget.Button</value>
-      <webElementGuid>cff2f2f3-633e-4507-a3b2-846d0c7fa677</webElementGuid>
+      <value>android.widget.TextView</value>
+      <webElementGuid>b56553eb-3df2-48d1-b1f2-390db669216a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -21,23 +21,23 @@
       <name>index</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>985680ff-f859-457a-99b0-ba5e56410aea</webElementGuid>
+      <webElementGuid>285eed47-4dda-499e-a4c2-cc0da9489fae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>HOLD ORDER</value>
-      <webElementGuid>ea2d85b6-6648-400a-abdf-3b96141c9590</webElementGuid>
+      <value>Chocolate Crepe Cake Whole</value>
+      <webElementGuid>c38214b4-d61c-471f-aee2-676fafbfe688</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>resource-id</name>
       <type>Main</type>
-      <value>com.jimac.bacchus_android_ordering:id/button_payment</value>
-      <webElementGuid>21aa074a-538d-4ae8-8070-0b5ae416cf0c</webElementGuid>
+      <value>com.jimac.bacchus_android_ordering:id/textViewDescription</value>
+      <webElementGuid>a62d2690-ad07-4e60-8d36-572743bacde2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>package</name>
       <type>Main</type>
       <value>com.jimac.bacchus_android_ordering</value>
-      <webElementGuid>1ff56b65-5148-4759-9ed1-41ea820a520f</webElementGuid>
+      <webElementGuid>d2a28180-8d07-49e9-8510-feb9f77b8350</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>checkable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>975f3699-1088-41c9-8894-5a9a3519a57a</webElementGuid>
+      <webElementGuid>db3656e7-402f-477d-8c89-b4c24699b525</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,15 +61,15 @@
       <name>checked</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>fc48d9d5-8a60-42a5-9276-3f9bb844aa03</webElementGuid>
+      <webElementGuid>333b5696-e8d9-445d-9a60-dd697a7070e8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>clickable</name>
       <type>Main</type>
-      <value>true</value>
-      <webElementGuid>c9c0650c-e699-4925-b2ba-9a5525714837</webElementGuid>
+      <value>false</value>
+      <webElementGuid>0029db86-70a9-421f-b9fe-6b9be34f37c8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,15 +77,15 @@
       <name>enabled</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>6605885e-72ac-4bb0-b9c2-807b411fcb77</webElementGuid>
+      <webElementGuid>8c1f244e-f997-40ef-991c-e5c750bf5826</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>focusable</name>
       <type>Main</type>
-      <value>true</value>
-      <webElementGuid>b4112aa0-489f-4bf5-b1c0-ec92fafc6798</webElementGuid>
+      <value>false</value>
+      <webElementGuid>0cde8900-dfa0-4ec4-b88b-505f0be60c72</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>focused</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>f4aa8620-89d1-4e7e-bf38-64239b2a5664</webElementGuid>
+      <webElementGuid>63de2fbe-621a-40b9-b80c-afc17bc65100</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>scrollable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>3bc651d8-3414-48ab-ab72-0129570b1e5d</webElementGuid>
+      <webElementGuid>8113f4be-96e2-4240-8291-e5e1a61cbba2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>long-clickable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>32186598-2a06-460f-b652-c96064a6a25d</webElementGuid>
+      <webElementGuid>e311c77d-a114-4e38-bbc6-223acdf2c441</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>password</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>188c4968-38bb-4a80-9234-eca252b2f1e4</webElementGuid>
+      <webElementGuid>dc42e17a-3648-4762-839e-7b22e50f83bf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -125,47 +125,47 @@
       <name>selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>3404a771-06ea-42d4-b7e6-dd7ee11b98a4</webElementGuid>
+      <webElementGuid>610c2486-567c-4fef-8f5f-8ead1e022702</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>x</name>
       <type>Main</type>
-      <value>0</value>
-      <webElementGuid>d02ab33c-4995-4b9b-b0d0-1cea5ed281ba</webElementGuid>
+      <value>124</value>
+      <webElementGuid>3c0210c8-d08d-46e6-98c9-a98340ef7652</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>y</name>
       <type>Main</type>
-      <value>411</value>
-      <webElementGuid>eea17ffa-4c9f-4ba6-87f8-3ee8b895c4bd</webElementGuid>
+      <value>227</value>
+      <webElementGuid>11524269-04c0-4fcd-8752-f20072f4a746</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>width</name>
       <type>Main</type>
-      <value>200</value>
-      <webElementGuid>380c6eb8-f29e-4e71-a43d-ee90bc6d5216</webElementGuid>
+      <value>288</value>
+      <webElementGuid>3a642c21-44b6-46f5-be26-96c9df54483e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>height</name>
       <type>Main</type>
-      <value>150</value>
-      <webElementGuid>80b7b3d2-d4ba-43c2-b318-486dde59f6e8</webElementGuid>
+      <value>28</value>
+      <webElementGuid>4b076dd5-680a-4add-b3fc-4beb60e933b4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>bounds</name>
       <type>Main</type>
-      <value>[0,411][200,561]</value>
-      <webElementGuid>2e2f21b8-9f25-45c4-9ae5-491e53c389e9</webElementGuid>
+      <value>[124,227][412,255]</value>
+      <webElementGuid>96dd011d-15c8-4149-8f06-3dfc45a4d52b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -173,58 +173,65 @@
       <name>displayed</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>2ad52432-8729-40c9-bf8c-911bb64e61f1</webElementGuid>
+      <webElementGuid>cea6c5c1-bc3f-42f0-9aa3-4c00e7b21cb9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.LinearLayout[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.widget.Button[1]</value>
-      <webElementGuid>febec25b-6612-41f5-b41c-13f9995e7aa4</webElementGuid>
+      <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.LinearLayout[1]/android.view.ViewGroup[1]/android.widget.LinearLayout[2]/android.widget.LinearLayout[1]/androidx.recyclerview.widget.RecyclerView[1]/android.widget.LinearLayout[3]/android.widget.LinearLayout[1]/android.widget.TextView[1]</value>
+      <webElementGuid>8d62f18c-1582-4254-b63a-dc6593fe05b5</webElementGuid>
    </webElementProperties>
-   <locator>//*[@class = 'android.widget.Button' and (@text = 'HOLD ORDER' or . = 'HOLD ORDER') and @resource-id = 'com.jimac.bacchus_android_ordering:id/button_payment']</locator>
+   <locator>//*[@class = 'android.widget.TextView' and (@text = 'Chocolate Crepe Cake Whole' or . = 'Chocolate Crepe Cake Whole') and @resource-id = 'com.jimac.bacchus_android_ordering:id/textViewDescription']</locator>
    <locatorCollection>
       <entry>
          <key>CLASS_NAME</key>
-         <value>android.widget.Button</value>
+         <value>android.widget.TextView</value>
       </entry>
       <entry>
          <key>NAME</key>
+         <value></value>
       </entry>
       <entry>
          <key>IOS_CLASS_CHAIN</key>
+         <value></value>
       </entry>
       <entry>
          <key>ANDROID_VIEWTAG</key>
+         <value></value>
       </entry>
       <entry>
          <key>IOS_PREDICATE_STRING</key>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.LinearLayout[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.widget.Button[1]</value>
+         <value></value>
       </entry>
       <entry>
          <key>ACCESSIBILITY</key>
+         <value></value>
       </entry>
       <entry>
          <key>ID</key>
-         <value>com.jimac.bacchus_android_ordering:id/button_payment</value>
+         <value>com.jimac.bacchus_android_ordering:id/textViewDescription</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.LinearLayout[1]/android.view.ViewGroup[1]/android.widget.LinearLayout[2]/android.widget.LinearLayout[1]/androidx.recyclerview.widget.RecyclerView[1]/android.widget.LinearLayout[3]/android.widget.LinearLayout[1]/android.widget.TextView[1]</value>
       </entry>
       <entry>
          <key>ATTRIBUTES</key>
-         <value>//*[@class = 'android.widget.Button' and (@text = 'HOLD ORDER' or . = 'HOLD ORDER') and @resource-id = 'com.jimac.bacchus_android_ordering:id/button_payment']</value>
+         <value>//*[@class = 'android.widget.TextView' and (@text = 'Chocolate Crepe Cake Whole' or . = 'Chocolate Crepe Cake Whole') and @resource-id = 'com.jimac.bacchus_android_ordering:id/textViewDescription']</value>
       </entry>
       <entry>
          <key>CUSTOM</key>
-      </entry>
-      <entry>
-         <key>ANDROID_UI_AUTOMATOR</key>
-         <value>new UiSelector().className(&quot;android.widget.Button&quot;).text(&quot;HOLD ORDER&quot;).resourceId(&quot;com.jimac.bacchus_android_ordering:id/button_payment&quot;).packageName(&quot;com.jimac.bacchus_android_ordering&quot;).enabled(true).clickable(true).longClickable(false).checkable(false).checked(false).focusable(true).focused(false).scrollable(false).selected(false).index(0)</value>
+         <value></value>
       </entry>
       <entry>
          <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>ANDROID_UI_AUTOMATOR</key>
+         <value>new UiSelector().className(&quot;android.widget.TextView&quot;).text(&quot;Chocolate Crepe Cake Whole&quot;).resourceId(&quot;com.jimac.bacchus_android_ordering:id/textViewDescription&quot;).packageName(&quot;com.jimac.bacchus_android_ordering&quot;).enabled(true).clickable(false).longClickable(false).checkable(false).checked(false).focusable(false).focused(false).scrollable(false).selected(false).index(0)</value>
       </entry>
    </locatorCollection>
    <locatorStrategy>ATTRIBUTES</locatorStrategy>

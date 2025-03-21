@@ -32,6 +32,7 @@ Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - P
 Mobile.delay(6)
 
 Mobile.scrollToText('Table 18', FailureHandling.STOP_ON_FAILURE)
+
 Mobile.delay(6)
 
 Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.TextView - Table 18'), 0)
