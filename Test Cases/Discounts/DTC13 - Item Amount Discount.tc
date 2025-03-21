@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DTC13 - Item Amount Discount</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>77750e53-eeff-41b8-872c-e6ac7eca2f2b</testCaseGuid>
+</TestCaseEntity>

@@ -31,11 +31,13 @@ Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - P
 
 Mobile.delay(6)
 
-Mobile.scrollToText('Table 13', FailureHandling.STOP_ON_FAILURE)
+Mobile.scrollToText('Table 16', FailureHandling.STOP_ON_FAILURE)
 
-Mobile.delay(6, FailureHandling.STOP_ON_FAILURE)
+Mobile.delay(6)
 
-Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.TextView - Table 13'), 0)
+Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.TextView - Table 16'), 0)
+
+Mobile.delay(6)
 
 Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - ORDER'), 0)
 
@@ -43,26 +45,39 @@ Mobile.setText(findTestObject('Object Repository/Discounts/android.widget.EditTe
 
 Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - UPDATE'), 0)
 
+Mobile.delay(6)
+
 Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - MENU ITEMS'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - SOUP'), 0)
+Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - CREPES SUCREES'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - FRENCH ONION SOUP'), 0)
+Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - GB-BASIC CREPE'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - GB-FRENCH ONION SOUP'), 0)
+Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - EMMENTAL CHEESE'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - SPECIAL CAKES'), 0)
-
-Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - SALTED BUTTER CARAMEL CHIFFON CAKE WHOLE'), 
-    0)
+Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.TextView - GB-BASIC CREPE in Added Items'), 0)
 
 Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - DISCOUNT'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - 30 OTHER DISCOUNT'), 0)
+Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - NEXT - DISCOUNTS'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - 40 OTHER DISCOUNT'), 0)
+Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - ITEM AMOUNT DC'), 0)
 
-Mobile.delay(3, FailureHandling.STOP_ON_FAILURE)
+Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - HOLD ORDER'), 0)
+
+Mobile.delay(6)
+
+Mobile.scrollToText("Table 16")
+
+Mobile.delay(6)
+
+Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.TextView - Table 16'), 0)
+
+Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - PRINT BILL'), 0)
+
+Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - CONFIRM PRINT BILL'), 0)
+
+Mobile.delay(6)
 
 Mobile.closeApplication()
 

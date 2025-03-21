@@ -31,11 +31,11 @@ Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - P
 
 Mobile.delay(6)
 
-Mobile.scrollToText("Table 10")
+Mobile.scrollToText('Table 17', FailureHandling.STOP_ON_FAILURE)
 
 Mobile.delay(6)
 
-Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.TextView - Table 10'), 0)
+Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.TextView - Table 17'), 0)
 
 Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - ORDER'), 0)
 
@@ -45,31 +45,31 @@ Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - U
 
 Mobile.delay(6)
 
-Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - MENU ITEMS'), 0)
+Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - SPECIAL CAKES'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - FRENCH TOAST'), 0)
+Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - CHOCOLATE MOUSSE'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - STRAWBERRY NUTELLA FRENCH TOAST'), 0)
+Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - TRIPLE CHOCOLATE CAKE SLICE'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - GB-MANGO AND CREAM FRENCH TOAST'), 0)
-
-Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - GB-BANANA WALNUT FRENCH TOAST'), 0)
+Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - TIRAMISU'), 0)
 
 Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - DISCOUNT'), 0)
 
 Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - NEXT - DISCOUNTS'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - 10 OTHER DISCOUNT'), 0)
+Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.TextView - Chocolate Mousse in Added Item'), 0)
+
+Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - ITEM PERCENT DC REGULAR'), 0)
 
 Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - HOLD ORDER'), 0)
 
 Mobile.delay(6)
 
-Mobile.scrollToText("Table 10")
+Mobile.scrollToText("Table 17")
 
 Mobile.delay(6)
 
-Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.TextView - Table 10'), 0)
+Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.TextView - Table 17'), 0)
 
 Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - PRINT BILL'), 0)
 

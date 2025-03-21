@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DTC14 - Item Percent Discount Regular</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>112e8243-6801-4f45-b7e6-4f53467eaa70</testCaseGuid>
+</TestCaseEntity>

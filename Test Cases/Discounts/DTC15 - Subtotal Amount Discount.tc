@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TDC13 - Add Multiple Discounts</name>
+   <name>DTC15 - Subtotal Amount Discount</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>96b2d6fe-af4f-44f1-897a-10e702d81b89</testCaseGuid>
+   <testCaseGuid>553f7a71-8bd7-4fae-8fbc-f1e4ad82164c</testCaseGuid>
 </TestCaseEntity>
